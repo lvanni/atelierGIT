@@ -1,0 +1,11 @@
+body {
+	font-family: "Gentium Basic", "Arial Unicode MS", "HelveticaNeue-Light", "Helvetica Neue Light",
+		"Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 12pt;
+	color: #232425;
+}
+
+#image_principale {
+	width: 650px;
+	height: 400px;	
+}
